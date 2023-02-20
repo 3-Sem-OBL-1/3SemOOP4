@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>_3SemOOP4</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="3.Sem_OOP_1">
+      <HintPath>..\..\3.Sem_OOP_1\3.Sem_OOP_1\bin\Debug\net6.0\3.Sem_OOP_1.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

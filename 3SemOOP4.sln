@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3SemOOP4", "3SemOOP4\3SemOOP4.csproj", "{89F4A9BA-CF59-45B5-A2BA-59DD976A459A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3SemOOP4Tests", "3SemOOP4Tests\3SemOOP4Tests.csproj", "{7596DF8B-71EE-4E10-931C-9C0E84DE7A4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89F4A9BA-CF59-45B5-A2BA-59DD976A459A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89F4A9BA-CF59-45B5-A2BA-59DD976A459A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89F4A9BA-CF59-45B5-A2BA-59DD976A459A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89F4A9BA-CF59-45B5-A2BA-59DD976A459A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7596DF8B-71EE-4E10-931C-9C0E84DE7A4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7596DF8B-71EE-4E10-931C-9C0E84DE7A4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7596DF8B-71EE-4E10-931C-9C0E84DE7A4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7596DF8B-71EE-4E10-931C-9C0E84DE7A4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {260E5454-702C-415B-82D7-4B6E5C06EEC4}
+	EndGlobalSection
+EndGlobal
