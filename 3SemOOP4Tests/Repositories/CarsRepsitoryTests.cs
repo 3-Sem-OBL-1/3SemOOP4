@@ -58,10 +58,13 @@ namespace _3SemOOP4.Repositories.Tests
         {
             int car_id = 1;
             int repositoryCount = _repository!.GetAll()!.Count();
+
             Car? car = _repository!.Delete(car_id);
             Assert.AreNotEqual(repositoryCount, _repository!.GetAll()!.Count());
+
             Car? nullCar = _repository!.GetById(car_id);
             Assert.IsNull(nullCar);
+
             nullCar = _repository!.Delete(car_id);
             Assert.IsNull(nullCar);
         }
